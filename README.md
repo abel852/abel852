@@ -1,231 +1,241 @@
-<!-- ========================= HEADER ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=190&section=header&text=Hello!%20I'm%20Abel%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=Abel%20Tesfaye&fontSize=52&fontColor=FFFFFF&fontAlignY=43&desc=Full-Stack%20Web%20Developer%20%7C%20Application%20Designer&descAlignY=67&descSize=18&descColor=00C6FF"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C6FF&center=true&vCenter=true&width=850&height=55&lines=Full-Stack+Web+Developer+%7C+Application+Designer;Building+ideas+into+digital+experiences;Turning+coffee+into+code+☕;Always+learning.+Always+building." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=00C6FF&center=true&vCenter=true&width=850&height=45&lines=Building+ideas+into+digital+experiences;Turning+problems+into+practical+solutions;Designing%2C+developing%2C+and+shipping+software"
+    alt="Typing introduction"
+  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/abel852">
-    <img src="https://komarev.com/ghpvc/?username=abel852&label=Profile%20Views&color=00C6FF&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/abel852?tab=followers">
-    <img src="https://img.shields.io/github/followers/abel852?label=Followers&style=for-the-badge&color=7F00FF" />
-  </a>
-</p>
+<br>
+
+## About Me
+
+I'm Abel Tesfaye, a Computer Science graduate and Full-Stack Web Developer focused on building modern, scalable, and user-friendly digital solutions.
+
+I enjoy working where software development, design, and problem-solving meet. From web applications and mobile apps to product ideas, I like taking something from an initial concept and turning it into something people can actually use.
+
+I'm continuously improving my technical skills, exploring new technologies, and working on projects that challenge me to build better software.
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+## What I'm Up To
 
-## 👨‍💻 About Me
-
-Hey! I'm **Abel Tesfaye** — a Computer Science graduate and Full-Stack Web Developer who enjoys turning ideas into things people can actually use.
-
-I like working where **code, creativity, and problem-solving** meet. From web applications and mobile apps to new product ideas, I enjoy taking something from **"what if?" → "let's build it."**
-
-> 💡 **I don't just want to write code. I want to build things that matter.**
-
----
-
-<!-- ========================= CURRENTLY ========================= -->
-
-## 🚀 What I'm Up To
-
-<p align="center">
-  <b>Building things. Learning things. Breaking things. Fixing them. 😄</b>
-</p>
-
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔨 Building
+### Building
 
-💻 **Web & Mobile Apps**  
-Turning ideas into working products.
+**Web and Mobile Applications**
 
-🚀 **SaaS Ideas**  
-Exploring products that solve real problems.
+Creating modern applications with practical functionality and clean user experiences.
 
-🤖 **AI-Powered Projects**  
-Experimenting with smarter and more useful applications.
+**SaaS and Product Ideas**
 
-🎨 **Digital Experiences**  
-Making applications not only functional, but enjoyable to use.
+Exploring software products that solve real problems and have the potential to grow.
+
+**AI-Powered Applications**
+
+Experimenting with AI, automation, and intelligent features that make applications more useful.
+
+**Digital Experiences**
+
+Combining development and design to create products that are both functional and visually strong.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Learning
+### Learning
 
-⚡ **Advanced Full-Stack Development**
+**Advanced Full-Stack Development**
 
-🤖 **AI & Automation**
+Improving my understanding of scalable application architecture and backend systems.
 
-🏗️ **Scalable Software Architecture**
+**AI and Automation**
 
-🎨 **Better UI & User Experience**
+Learning how AI can be integrated into real-world applications and workflows.
+
+**Software Architecture**
+
+Developing stronger skills in designing maintainable and scalable systems.
+
+**UI and User Experience**
+
+Continuously improving how applications look, feel, and work.
 
 </td>
-
 </tr>
 </table>
 
-<p align="center">
-  <br>
-  💡 <b>Always open to interesting people, ideas, and projects worth building.</b>
+---
+
+## My Toolkit
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,dart,kotlin,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,reactnative,tailwind" />
+</p>
+
+### Backend and Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,postgresql,mongodb,firebase,supabase,prisma" />
+</p>
+
+### Cloud and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
 </p>
 
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+## Things I Like Building
 
-## 🛠️ My Toolkit
+I enjoy working on projects such as:
 
-### 💻 Languages
+- Full-stack web applications
+- Mobile applications
+- Business management systems
+- SaaS products
+- APIs and backend systems
+- AI-powered applications
+- Automation tools
+- Digital platforms
+- Modern dashboards
+- Creative web experiences
+
+My goal is not simply to write code, but to build software that solves a real problem.
+
+---
+
+## GitHub Journey
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,dart,kotlin,cpp" />
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=abel852&bg_color=0D1117&color=9CA3AF&line=00C6FF&point=00C6FF&area=true&area_color=00C6FF&hide_border=true&custom_title=Abel's%20Coding%20Journey"
+  />
 </p>
 
-### 🌐 Web Development
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
-</p>
+  <img
+    height="170"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abel852&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=00C6FF"
+  />
 
-### 📱 App Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
-</p>
-
-### 🗄️ Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,prisma" />
-</p>
-
-### ☁️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,aws,gcp" />
+  <img
+    height="170"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abel852&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"
+  />
 </p>
 
 ---
 
-<!-- ========================= WHAT I BUILD ========================= -->
+## Currently Focused On
 
-## 🎯 Things I Like Building
+<table>
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
+**Full-Stack Development**
 
-<img src="https://img.shields.io/badge/🌐%20Web%20Apps-00C6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📱%20Mobile%20Apps-7F00FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖%20AI%20Projects-00D084?style=for-the-badge" />
+Building complete applications from frontend to backend.
 
-</p>
+</td>
 
-<p align="center">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/🚀%20SaaS-FF4B91?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎨%20UI%20%2F%20UX-FF9F1C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡%20Digital%20Products-8B5CF6?style=for-the-badge" />
+**Product Development**
 
-</p>
+Turning ideas into useful digital products.
 
----
+</td>
 
-<!-- ========================= GITHUB STATS ========================= -->
+<td align="center" width="25%">
 
-## 📊 GitHub
+**AI Integration**
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abel852&show_icons=true&theme=tokyonight&title_color=00C6FF&icon_color=7F00FF&text_color=FFFFFF&hide_border=true&bg_color=0D1117&count_private=true" />
+Exploring practical AI-powered software.
 
-  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abel852&layout=compact&theme=tokyonight&title_color=00C6FF&text_color=FFFFFF&hide_border=true&bg_color=0D1117&langs_count=8" />
-</p>
+</td>
 
----
+<td align="center" width="25%">
 
-## 🔥 Coding Streak
+**Business**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abel852&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=FF4B91&currStreakLabel=00C6FF" />
-</p>
+Learning how technology can become scalable products and businesses.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 My GitHub Journey
+## Random Fact About Me
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=abel852&bg_color=0D1117&color=FFFFFF&line=00C6FF&point=FF4B91&area=true&hide_border=true" />
-</p>
+I always say "just one more change" and somehow it becomes 2 AM.
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
+## Something I Believe
 
-## 🌐 Let's Connect
+Good software is more than code.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abel-tesfaye-9a2aa4324">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/abel143143">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://abeltesfaye.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="mailto:abeltes555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+It should solve a real problem, be easy to use, and create enough value that people actually want to come back to it.
 
 ---
 
-<!-- ========================= FUN FACT ========================= -->
-
-## 😄 Random Fact About Me
+## Let's Connect
 
 <p align="center">
 
-### "Just one more change..."
+<a href="https://abeltesfaye.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00C6FF" />
+</a>
 
-**...then somehow it's 2 AM. 😂**
+<a href="https://www.linkedin.com/in/abel-tesfaye-9a2aa432">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C6FF" />
+</a>
 
-</p>
+<a href="https://www.instagram.com/abel143143">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00C6FF" />
+</a>
 
----
-
-<!-- ========================= QUOTE ========================= -->
-
-## 💭 Something I Believe
-
-<p align="center">
-
-<i>"Build it. Break it. Learn from it. Build it better."</i>
+<a href="mailto:abeltes555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C6FF" />
+</a>
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=120&section=footer" />
+  <b>Building ideas into digital experiences.</b>
 </p>
 
 <p align="center">
-  <b>⭐ Thanks for stopping by!</b>
-  <br>
-  <i>Let's build something awesome.</i> 🚀
+  <sub>Designed and developed by Abel Tesfaye</sub>
 </p>

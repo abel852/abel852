@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm Abel Tesfaye, a Computer Science graduate and Full-Stack Web Developer focused on building modern, scalable, and user-friendly digital solutions.
+I'm Abel Tesfaye, a Computer Science graduate and Full-Stack Web Developer focused on building modern, scalable, and user-friendly .
 
 I enjoy working where software development, design, and problem-solving meet. From web applications and mobile apps to product ideas, I like taking something from an initial concept and turning it into something people can actually use.
 
